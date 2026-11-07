@@ -1,0 +1,9 @@
+{
+  "kioskVersionCode": 5,
+  "kioskVersionName": "1.0.4",
+  "kioskApkUrl": "https://github.com/personalcomputer023-oss/z92-qr-provisioning/releases/download/v1.0.4/TransitKiosk.apk",
+  "conductorVersionCode": 76,
+  "conductorApkUrls": [
+    "https://github.com/personalcomputer023-oss/z92-qr-provisioning/releases/download/v1.0.4/TransitPay.Conductor.apk"
+  ]
+}
