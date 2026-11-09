@@ -4,6 +4,6 @@
   "kioskApkUrl": "https://github.com/personalcomputer023-oss/z92-qr-provisioning/releases/download/v1.0.6/TransitKiosk.apk",
   "conductorVersionCode": 76,
   "conductorApkUrls": [
-    "https://github.com/personalcomputer023-oss/z92-qr-provisioning/releases/download/v1.0.4/TransitPay.Conductor.apk"
+    "https://github.com/personalcomputer023-oss/z92-qr-provisioning/releases/download/v1.0.6/TransitPay.Conductor.apk"
   ]
 }
